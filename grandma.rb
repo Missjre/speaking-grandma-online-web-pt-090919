@@ -6,7 +6,9 @@ def speak_to_grandma
 
 
 
-
+ def speak_to_grandma("'responds with HUH?! SPEAK UP, SONNY! for a second time'")
+    puts (speak_to_grandma('Hi!'))= 'HUH?! SPEAK UP, SONNY!')
+  end
 
 # NO, NOT SINCE 1938!
 
